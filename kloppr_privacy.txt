@@ -1,0 +1,185 @@
+KLOPPR – Datenschutzerklärung (Privacy Policy)
+
+Stand: November 2025
+
+Diese Datenschutzerklärung erläutert, wie die mobile Anwendung KLOPPR („App“, „wir“, „uns“) personenbezogene Daten verarbeitet.
+KLOPPR ist ein Präsentations- und Community-Raum für Creator, in dem Nutzer Produkte vorstellen, miteinander interagieren und zu externen Shops weiterleiten können. KLOPPR ist kein eigener Shop und führt keine Bezahlvorgänge durch.
+
+Bei Fragen: grvknindustries@proton.me
+ (Beispiel – ersetze mit deiner echten Support-Mail)
+
+1. Verantwortlicher
+
+Andre Hallau
+KLOPPR App
+E-Mail: [DEINE E-MAIL EINFÜGEN]
+
+2. Welche Daten wir verarbeiten
+2.1 Login & Kontoerstellung (Supabase Auth)
+
+Für die Registrierung verarbeiten wir:
+
+E-Mail-Adresse
+
+Passwort (verschlüsselt, niemals im Klartext)
+
+Zeitpunkt der Registrierung
+
+Login-Protokolle (erforderlich für Sicherheit)
+
+2.2 Profil- & Creator-Daten
+
+Wenn du ein Creator-Profil erstellst, verarbeitest du freiwillig:
+
+Profilname
+
+Shopname / Visionstext
+
+Avatarbild
+
+Bannerbild
+
+Produktbilder (bis zu 10 pro Produkt)
+
+Produktvideo (optional)
+
+Beschreibungstexte
+
+Externer Shoplink (z. B. Shopify)
+
+Diese Inhalte sind öffentlich sichtbar, solange dein Creator-Profil aktiv ist.
+
+2.3 Kommunikation & Interaktion
+
+In der App können folgende Daten entstehen:
+
+Likes
+
+Follows
+
+Nachrichten (1:1 Chat)
+
+Kommentare (falls später aktiviert)
+
+Chats werden über Supabase Realtime & Postgres gespeichert und nicht an Dritte weitergegeben.
+
+2.4 Technische Daten
+
+Beim Start der App werden automatisch verarbeitet:
+
+Geräte-Modell
+
+Betriebssystem
+
+App-Version
+
+Zeitstempel
+
+IP-Adresse (von Supabase zu Sicherheitszwecken anonymisiert verarbeitet)
+
+Diese Daten dienen ausschließlich:
+
+Stabilität
+
+Missbrauchserkennung
+
+technischer Fehleranalyse
+
+2.5 Externe Shoplinks
+
+Creator können externe Shoplinks einfügen (z. B. Shopify, Etsy, eigene Website).
+Beim Öffnen verlässt der Nutzer die App — die Zieldomain hat eigene Datenschutzregeln, auf die wir keinen Einfluss haben.
+
+3. Warum wir Daten verarbeiten
+
+Wir verarbeiten die Daten auf Grundlage von Art. 6 DSGVO für:
+
+Bereitstellung und Funktion der App
+
+Nutzung von Creator-Profilen und Produktdarstellungen
+
+Communities: Likes, Follows, Nachrichten
+
+Betrugs- und Missbrauchserkennung
+
+Sicherheit & Stabilität (Logs)
+
+Erfüllung gesetzlicher Pflichten
+
+4. Speicherung & Löschung
+4.1 Löschung durch Nutzer
+
+Du kannst jederzeit löschen:
+
+dein Profil
+
+deine Produkte
+
+Shoplinks
+
+Bilder/Videos
+
+4.2 Vollständige Kontolöschung
+
+Auf Anfrage löschen wir alle personenbezogenen Daten innerhalb von 30 Tagen.
+Support: [DEINE SUPPORT-E-MAIL]
+
+4.3 Aufbewahrungsfristen
+
+Supabase speichert technische Logs max. 7–30 Tage.
+
+5. Weitergabe an Dritte
+
+Wir geben keine Daten an Dritte weiter – außer:
+
+Supabase (Hosting, Auth, Datenbanken)
+
+gesetzliche Anforderungen (z. B. Gerichtsbeschlüsse)
+
+Supabase verarbeitet Daten DSGVO-konform in der EU (Region frei wählbar).
+
+6. Cookies & Tracking
+
+KLOPPR verwendet keine Third-Party-Tracking-Tools, keine Werbe-SDKs und keine Cookies.
+
+7. Minderjährige
+
+Die App ist nur für Nutzer ab 18 Jahren.
+Wir sammeln keine Daten von Minderjährigen.
+
+8. Sicherheit
+
+SSL-Verschlüsselung
+
+sichere Passwort-Hashing-Verfahren
+
+Zugriff nur über Auth-Token
+
+regelmäßige Sicherheitsupdates
+
+9. Rechte der Nutzer (DSGVO)
+
+Du hast jederzeit:
+
+Recht auf Auskunft
+
+Recht auf Berichtigung
+
+Recht auf Löschung
+
+Recht auf Datenübertragbarkeit
+
+Recht auf Einschränkung
+
+Recht auf Widerruf
+
+Recht auf Beschwerde bei einer Aufsichtsbehörde
+
+10. Änderungen
+
+Wir aktualisieren diese Erklärung bei Bedarf. Wesentliche Änderungen zeigen wir in der App an.
+
+11. Kontakt
+
+Andre Hallau
+E-Mail: [DEINE SUPPORT-MAIL]
